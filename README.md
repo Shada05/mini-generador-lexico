@@ -1,5 +1,6 @@
 # mini-generador-lexico
 ![image](https://user-images.githubusercontent.com/74196278/186326166-613955e7-bd31-432b-8c0e-5d2a0b638b7c.png)
+![image](https://user-images.githubusercontent.com/74196278/186326262-ad33a193-f23c-469f-bfc5-f672cba93bda.png)
 
 ¿Qué es un analizador léxico?
 Un analizador léxico es un programa informático que divide un flujo de texto en fichas y marca sus tipos. Toma la entrada como una secuencia de caracteres arbitrariamente larga, denominada cadena de entrada, y la salida como una secuencia de uno o más caracteres, denominada secuencia de token.
